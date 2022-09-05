@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  padding: 50px 100px;
+  width: 200px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 100px;
+  box-shadow: 10px 10px 5px #D3D3D3;
+  background-color: white;
+}
+
+h1{
+  text-align: center;
+  padding-top: 0px;
+  font-family: 'Franklin Gothic Medium';
+}
+label{
+  color: #B8A598;
+  font-weight: 500;
+  display: block;
+  padding: 5px;
+  text-align: left;
+}
+button{
+  margin-top: 10px;
+  color: white;
+  background-color: #FAC898;
+  border-radius: 8px;
+  border: 1px;
+  padding: 10px;
+}
+input{
+  color:black;  
+  width: 200px;
+}
+input::placeholder{
+  font-style:italic;
+}
+
+body{
+  background-color:	#FAC898
+}
+
+
+
